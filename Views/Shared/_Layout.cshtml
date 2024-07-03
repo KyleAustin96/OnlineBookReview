@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title - Online Book Reviews</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        body{
+            border:5px solid mediumseagreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="jumbotron" style="width:95%;margin-left:2.5%;border:groove;border-radius:10px 20px;background-color:white;">
+        <img src="~/Images/BookClubBG.png" style="margin-left:30%;width:30%;margin-top:-7%"/>
+    </div>
+    <div class="navbar navbar-light navbar-fixed-top" style="margin-bottom:10%;background-color:mediumseagreen">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Book List", "Index", "BookDetails")</li>
+                    <li>@Html.ActionLink("Add Books", "Create", "BookDetails")</li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (System.Web.HttpContext.Current.Session["UserID"] == null)
+                    {
+                        <li>@Html.ActionLink("Login", "Login", "Login")</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Hello " + Session["FirstName"].ToString(), "EditUser", "BookDetails")</li>
+                        <li>@Html.ActionLink("LogOff", "LogOff", "Login")</li>
+                    }
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+    <p>@ViewBag.Message</p>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

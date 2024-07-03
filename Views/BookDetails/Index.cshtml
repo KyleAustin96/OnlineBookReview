@@ -1,0 +1,58 @@
+﻿@model IEnumerable<OnlineBookReviews.Models.BookDetails>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Book List</h2>
+@using (Html.BeginForm("Index", "BookDetails", null, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+<table class="table">
+    <tr>
+        <td class="form-group">
+            <input type="text" class="form-control" name="bookName" placeholder="Search Book" style="margin-left:3px"/>
+        </td>
+        <td>
+            <input type="submit" value="Search" class="btn btn-default" />  
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BookName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AverageRating)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AverageRating)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ISBN }) |
+                @Html.ActionLink("Rate", "Details", new { id = item.ISBN }) |
+            </td>
+        </tr>
+    }
+</table>
+}

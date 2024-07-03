@@ -1,0 +1,171 @@
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.Migrations.BookEntitiesSP.resources
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.GenerateResource.cache
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.CoreCompileInputs.cache
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.dll.config
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.pdb
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.exe
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.exe.config
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.rsp
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.exe
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.exe.config
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.rsp
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.AppContext.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Console.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.Compression.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Net.Http.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.ValueTuple.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.exe
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.exe.config
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.rsp
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\VBCSCompiler.exe
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Antlr3.Runtime.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.SqlServer.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Newtonsoft.Json.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Helpers.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Mvc.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Optimization.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Razor.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Razor.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\WebGrease.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.SqlServer.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Helpers.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Mvc.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Optimization.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Razor.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Razor.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Newtonsoft.Json.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Antlr3.Runtime.pdb
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.CopyComplete
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.dll
+C:\Users\kyle.subramany.ITRELATED\source\repos\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.pdb
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.dll.config
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\OnlineBookReviews.pdb
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.exe
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.exe.config
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csc.rsp
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.exe
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.exe.config
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\csi.rsp
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.AppContext.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Console.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.Compression.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Net.Http.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.ValueTuple.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.exe
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.exe.config
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\vbc.rsp
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\VBCSCompiler.exe
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Antlr3.Runtime.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.SqlServer.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Newtonsoft.Json.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Helpers.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Mvc.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Optimization.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Razor.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Razor.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\WebGrease.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\EntityFramework.SqlServer.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Helpers.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Mvc.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Optimization.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.Razor.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\System.Web.WebPages.Razor.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Newtonsoft.Json.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Antlr3.Runtime.pdb
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.AssemblyReference.cache
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.Migrations.BookEntitiesSP.resources
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.GenerateResource.cache
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.CoreCompileInputs.cache
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.csproj.CopyComplete
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.dll
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.pdb
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.Migrations.BookDetails.resources
+C:\Users\kyle.subramany.ITRELATED\Documents\Visual Studio 2019\OnlineBookReviews\OnlineBookReviews\obj\Debug\OnlineBookReviews.Migrations.Description.resources
